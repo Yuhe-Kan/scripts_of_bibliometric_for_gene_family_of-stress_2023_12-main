@@ -1,11 +1,11 @@
 Sources	Articles	CASAD
-Front. Plant Sci.	220	Q2
-Int. J. Mol. Sci.	202	Q2
-BMC Genomics	163	Q2
-BMC Plant Bio.	140	Q2
-PLoS ONE	112	Q3
-Plant Physiol. Biochem.	78	Q2
-Plants-BASEL	76	Q2
-PeerJ	74	Q3
-GENES	68	Q3
-GENE	66	Q3
+Int. J. Mol. Sci.	291	Q2
+Front. Plant Sci.	288	Q2
+BMC Genomics	180	Q2
+BMC Plant Bio.	162	Q2
+Plants-BASEL	131	Q2
+PLoS ONE	111	Q3
+GENES	98	Q3
+PeerJ	92	Q3
+Plant Physiol. Biochem.	92	Q2
+GENE	80	Q3
